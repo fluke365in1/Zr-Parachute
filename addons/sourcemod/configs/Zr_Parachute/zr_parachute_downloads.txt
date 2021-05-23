@@ -1,0 +1,25 @@
+//ZOMBIE PARACHUTE
+
+models/parachute/zombie/gargoyle_wings/gargoyle_wings.dx80.vtx
+models/parachute/zombie/gargoyle_wings/gargoyle_wings.dx90.vtx
+models/parachute/zombie/gargoyle_wings/gargoyle_wings.mdl
+models/parachute/zombie/gargoyle_wings/gargoyle_wings.sw.vtx
+models/parachute/zombie/gargoyle_wings/gargoyle_wings.vvd
+
+materials/models/parachute/zombie/gargoyle_wings/gargoyle.vmt
+materials/models/parachute/zombie/gargoyle_wings/gargoyle.vtf
+materials/models/parachute/zombie/gargoyle_wings/pack.vmt
+materials/models/parachute/zombie/gargoyle_wings/pack.vtf
+
+//CONTRA TERRORISTA PARACHUTE
+
+models/parachute/parachute_ice_v2.dx80.vtx
+models/parachute/parachute_ice_v2.dx90.vtx
+models/parachute/parachute_ice_v2.mdl
+models/parachute/parachute_ice_v2.sw.vtx
+models/parachute/parachute_ice_v2.vvd
+
+materials/models/parachute/parachute_ice_v2.vmt
+materials/models/parachute/parachute_ice_v2.vtf
+materials/models/parachute/pack.vmt
+materials/models/parachute/pack.vtf

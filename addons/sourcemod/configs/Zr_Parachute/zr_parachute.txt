@@ -1,0 +1,15 @@
+"Zr_Parachute"
+{ 
+    "CT_Model"
+	{
+		"Model"			"models/parachute/parachute_ice_v2.mdl"
+		"Position"		"-7.000000 0.000000 3.000000"
+		"Angles"		"0.000000 -15.000000 0.000000"
+	}
+	"T_Model"
+	{
+		"Model"			"models/parachute/zombie/gargoyle_wings/gargoyle_wings.mdl"
+		"Position"		"-5.000000 5.000000 -20.000000"
+		"Angles"		"0.000000 -10.000000 0.000000"
+	}
+}

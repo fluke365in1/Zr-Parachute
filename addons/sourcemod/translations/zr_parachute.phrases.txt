@@ -1,0 +1,117 @@
+﻿"Phrases"
+{
+    "Have Got Free Parachute"
+    {
+        "#format"    "{1:s}"
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have got a free parachute to use it press {1} while falling."
+		"pl"        "{red}[ {green}Zr Parachute {red}]{default} Posiadasz darmowy spadochron, aby go użyć przyrzymaj {1} podczas spadania."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous avez un parachute gratuit, pour l'employer pressez la touche {1} tout en tombant."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast einen Gratis-Fallschirm bekommen, um ihn zu verwenden druecke {1} waehrend des Fallens."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft één gratis parachute. Om deze te gebruiken, druk op {1} terwijl u valt."
+    }
+    "Have Free Parachute"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have already a free parachute."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Już masz darmowy spadochron."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous avez déjà un parachute gratuit."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast bereits einen Gratis-Fallschirm."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft al een gratis parachute."
+    }
+    "No Money"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have not enough money."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Nie stać Cię na spadochron."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous n'avez pas assez d'argent."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast nicht genug Geld."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft niet genoeg geld."
+    }
+    "Have Bought Parachute"
+    {
+        "#format"    "{1:s}"
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have bought a parachute to use it press {1} while falling."
+		"pl"        "{red}[ {green}Zr Parachute {red}]{default} Kupił(aś/eś) spadochron, aby go użyć przyrzymaj {1} podczas spadania."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous avez acheté un parachute, pour l'employer pressez la touche {1} tout en tombant."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast einen Fallschirm gekauft, um ihn zu verwenden druecke {1} waehrend des Fallens."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft een parachute gekocht. Om deze te gebruiken, druk op {1} terwijl u valt."
+    }
+    "Have Parachute"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have already a parachute."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Masz już spadochron."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous avez déjà un parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast bereits einen Fallschirm."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft al een parachute."
+    }
+    "Sold Parachute"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You have sold your parachute."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Sprzedałeś swój spadochron."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous avez vendu votre parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast deinen Fallschirm verkauft."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft uw parachute verkocht."
+    }
+    "Sell Free Parachute"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You cannot sell a free parachute."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Nie możesz sprzedać darmowego spadochronu."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous ne pouvez pas vendre un parachute gratuit."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du kannst keinen Gratis-Fallschirm verkaufen."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U kan geen gratis parachute verkopen"
+    }
+    "No Parachute"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} You dont have a parachute."
+		"pl"	    "{red}[ {green}Zr Parachute {red}]{default} Nie posiadasz spadochronu."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Vous n'avez pas de parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Du hast keinen Fallschirm."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} U heeft geen parachute."
+    }
+    "Welcome"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} Welcome! This server is running SM Parachute."
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Witaj! Na tym serverze działa SM Parachute."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Bienvenue! Ce serveur utilise le plugin SM Parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Willkommen! Auf diesem Server laeuft SM Parachute."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Welkom! Deze server draait SM Parachute."
+    }
+    "Parachute For Everyone"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} Free parachute for everyone is enabled!"
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Darmowy spadochron jest dostępny dla wszystkich!"
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Le parachute libre pour chacun est activé!"
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Gratis-Fallschirm fuer alle ist aktiviert!"
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Gratis parachute voor iedereen is geactiveerd!"
+    }
+    "Buy Help"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} To buy a parachute type !bp or !buy_parachute."
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Aby kupić spadochron wpisz !bp lub !buy_parachute."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Pour acheter un parachute, tape !bp ou !buy_parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Um einen Fallschirm zu kaufen schreibe !bp oder !buy_parachute."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Om een parachute te kopen type !bp of !buy_parachute"
+    }
+    "Sell Help"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} To sell your parachute type !sp or !sell_parachute."
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Aby sprzedać swój spadochron wpisz !sp lub !sell_parachute."
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Pour vendre un parachute, tape !sp ou !sell_parachute."
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Um deinen Fallschirm zu verkaufen schreibe !sp oder !sell_parachute."
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Om uw parachute te verkopen type !sp of !sell_parachute"
+    }
+    "Disabled"
+    {
+		"en"        "{red}[ {green}Zr Parachute {red}]{default} Parachute is disabled!"
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Spadochron jest wyłączony!"
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Parachute est désactivé!"
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Fallschirm ist deaktiviert!"
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Parachute is gedesactiveerd"
+    }
+    "Enabled"
+    {
+        "en"        "{red}[ {green}Zr Parachute {red}]{default} Parachute is enabled!"
+        "pl"        "{red}[ {green}Zr Parachute {red}]{default} Spadochron jest aktywny!"
+        "fr"        "{red}[ {green}Zr Parachute {red}]{default} Parachute est activé!"
+        "de"        "{red}[ {green}Zr Parachute {red}]{default} Fallschirm ist aktiviert!"
+        "nl"        "{red}[ {green}Zr Parachute {red}]{default} Parachute is geactiveerd"
+    }
+}
